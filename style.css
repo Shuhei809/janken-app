@@ -1,0 +1,17 @@
+.box {
+    height: 10vw;
+    /* 「viewport width」の略で、「画面幅に対する割合」 */
+    width: 10vw;
+    padding: 2em;
+    /*内側余白*/
+    border: solid 2px #333;
+    /*線の種類・太さ・色*/
+}
+
+.person1-image {
+    background-image: url(img/rock.jpg);
+}
+
+.person2-image {
+    background-image: url(img/rock.jpg);
+}
